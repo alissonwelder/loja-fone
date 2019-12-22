@@ -21,4 +21,10 @@ você pode usar essa tag com o atributo `href`. Exemplo de uma
 
 # css
 
-É  
+É estilização das tags.
+
+
+# Float:
+
+flutuar, ao usar esse comando a parte do logo foi para frente e a parte do menu foi para tras, mas nesse novo contexto, ele nunca esconde o conteudo, nesse caso ficou exprimido.
+
