@@ -28,3 +28,39 @@ você pode usar essa tag com o atributo `href`. Exemplo de uma
 
 flutuar, ao usar esse comando a parte do logo foi para frente e a parte do menu foi para tras, mas nesse novo contexto, ele nunca esconde o conteudo, nesse caso ficou exprimido.
 
+# id
+
+para selecionar ele no css usa-se o simbolo #, e pode ser usado um por pagina com o mesmo nome
+
+# class
+
+para selecionar ele no css usa-se o simbolo . , e pode ser usado varias vezes por pagina com o mesmo nome.
+
+# display inline
+
+deixa elementos na mesma linha, a tag A tem como padrão, esse comportamento.
+Não consegue definir width e height
+
+# display block
+
+é possivel definir altura e largura, porem ficará um em baixo do outro.
+
+# display inline-block
+
+Deixa na mesma linha
+deixa definir largura e altura
+
+# line-height
+
+para alinhar verticalmente quando tem somente uma unica linha dentro do elemento.
+
+
+# text-align
+
+para alinhar horizontalmente
+
+# position absolute
+
+cria um novo contexto
+define o width e height é o conteudo
+top, bottom, left e right é possivel mover em relação a pagina
