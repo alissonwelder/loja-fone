@@ -64,3 +64,17 @@ para alinhar horizontalmente
 cria um novo contexto
 define o width e height é o conteudo
 top, bottom, left e right é possivel mover em relação a pagina
+
+
+# call to action (cta)
+botão de ação, botão que vc quer quer que o usuario clique
+
+# description list <dl>
+
+tag para escrever uma descrição de um produto.
+
+#description title <dt>
+titulo da descrição
+
+define description <dd>
+definir a descrição
